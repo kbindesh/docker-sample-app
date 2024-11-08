@@ -10,7 +10,7 @@ pool:
   vmImage: ubuntu-latest
 
 variables:
-  repositoryName: "newdockerimage"
+  repositoryName: "kbindesh/newdockerimage"
 
 steps:
 - task: Docker@2
